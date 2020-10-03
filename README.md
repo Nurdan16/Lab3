@@ -1,5 +1,4 @@
-# Lab3package robin;
-
+package robin;
 
 import java.util.Scanner;
 
